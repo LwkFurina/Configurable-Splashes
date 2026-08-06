@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "configurable-splashes",
+  "version": "${version}",
+  "name": "Configurable Splashes",
+  "description": "Lets players customize the title screen splash text by editing a config file.",
+  "authors": ["Anasnoor"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/configurable-splashes/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.yourname.configurablesplashes.ConfigurableSplashesClient"]
+  },
+  "mixins": ["configurable-splashes.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.17.0",
+    "minecraft": "~1.21.10",
+    "java": ">=21"
+  }
+}
