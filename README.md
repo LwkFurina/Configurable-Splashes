@@ -7,12 +7,12 @@ Normally, that text changes randomly every time you open the game. With this mod
 What it does:
 
 Change the title screen text to anything you want
-Works alone — no other mods needed
+Works alone, no other mods needed
 Only changes your own game, not the server
 How to use it:
 
 Install the mod
-Open the game once — this creates a small settings file
+Open the game once, this creates a small settings file
 Open that file in a text editor
 Type in your own text
 Save and restart the game
