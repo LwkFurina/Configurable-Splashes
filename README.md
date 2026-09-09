@@ -16,4 +16,4 @@ Open the game once, this creates a small settings file
 Open that file in a text editor
 Type in your own text
 Save and restart the game
-That's it! your new text will show up on the title screen.
+That's it! Your new text will show up on the title screen.
