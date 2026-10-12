@@ -15,5 +15,5 @@ Install the mod and
 open the game once, this creates a small settings file. Then,
 open that file in a text editor.
 Type in your own text.
-Save and restart the game
+Save and restart the game.
 That's it! Your new text will show up on the title screen.
