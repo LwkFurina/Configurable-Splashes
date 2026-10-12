@@ -11,7 +11,7 @@ works alone, no other mods needed.
 This only changes your own game, not the server
 How to use it:
 
-Install the mod
+Install the mod and
 open the game once, this creates a small settings file. Then,
 open that file in a text editor.
 Type in your own text.
